@@ -1,5 +1,5 @@
 {
-  "name": "@gelatonetwork/relay-context",
+  "name": "@miki/gelato-relay-context",
   "version": "3.2.0",
   "description": "Solidity and test helpers for implementing GelatoRelayContext",
   "main": "dist/src/index.js",
